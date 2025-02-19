@@ -4,6 +4,7 @@
   margin: 0;
   box-sizing: border-box;
 }
+
 :root {
   --primaryBackground: #212222;
   --secondaryBackground: #2f3030;
